@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22552083333333334" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/drawable/button.xml" value="0.22552083333333334" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/drawable/dark_textbox.xml" value="0.22552083333333334" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/drawable/item_bckground.xml" value="0.22552083333333334" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/drawable/main_bg.xml" value="0.22552083333333334" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/drawable/shadow_btn.xml" value="0.22552083333333334" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/drawable/solid_bg.xml" value="0.22552083333333334" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/drawable/text_box.xml" value="0.22552083333333334" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/layout/activity_home_main.xml" value="0.209375" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/layout/activity_login.xml" value="0.209375" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/layout/activity_prodct_details.xml" value="0.22" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/layout/activity_product_details.xml" value="0.209375" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/layout/activity_profile.xml" value="0.1953125" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/layout/activity_registration.xml" value="0.18070652173913043" />
+        <entry key="..\:/Future Farm/FutureFarm/app/src/main/res/layout/activity_user_registration.xml" value="0.22" />
+        <entry key="..\:/Users/amals/AndroidStudioProjects/FutureFarm/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/amals/AndroidStudioProjects/FutureFarm/app/src/main/res/drawable/button.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/amals/AndroidStudioProjects/FutureFarm/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/amals/AndroidStudioProjects/FutureFarm/app/src/main/res/drawable/main_bg.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/amals/AndroidStudioProjects/FutureFarm/app/src/main/res/drawable/text_box.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/amals/AndroidStudioProjects/FutureFarm/app/src/main/res/font/light.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/amals/AndroidStudioProjects/FutureFarm/app/src/main/res/layout/activity_login.xml" value="0.209375" />
+        <entry key="..\:/Users/amals/AndroidStudioProjects/FutureFarm/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

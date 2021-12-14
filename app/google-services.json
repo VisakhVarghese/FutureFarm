@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "497165268105",
+    "firebase_url": "https://futurefarm-2ea1a-default-rtdb.firebaseio.com",
+    "project_id": "futurefarm-2ea1a",
+    "storage_bucket": "futurefarm-2ea1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497165268105:android:55981bb7044073cf178258",
+        "android_client_info": {
+          "package_name": "com.example.futurefarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497165268105-58saprfqqmab808eif4l47n629ugrf7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6wQfxlaxe1cFZ3KiUnSZrvYMfbb3wCC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497165268105-58saprfqqmab808eif4l47n629ugrf7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
